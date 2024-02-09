@@ -1,1 +1,2 @@
-# git_trail_version
+This is github session
+intresting to learn!!
